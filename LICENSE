@@ -1,0 +1,21 @@
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+
+This project, its documentation and result presentation
+are provided under the Creative Commons Attribution-NonCommercial-ShareAlike
+4.0 International license.
+
+The data and helper framework originate from MIT OpenCourseWare 6.0002,
+Fall 2016, Problem Set 5. Copyright in those upstream materials remains with
+Massachusetts Institute of Technology and the respective rights holders.
+See docs/provenance.md for attribution and a description of changes.
+
+Full license terms:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+MIT OCW notices and terms:
+https://ocw.mit.edu/pages/privacy-and-terms-of-use/
+
+Retain attribution, use the licensed material for noncommercial purposes,
+and share adaptations under the same license. The material is provided
+without warranties as specified in the full license. No institutional
+endorsement is implied. Third-party dependencies retain their own licenses.
